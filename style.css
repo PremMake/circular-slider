@@ -137,5 +137,7 @@ body {
 }
 
 @media(max-width:587px) {
-    
+    span{
+        font-size: 7px;
+    }
 }
